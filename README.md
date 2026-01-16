@@ -20,7 +20,7 @@
 ---
 
 ### ✨ Sobre mim
-Sou estudante de Gestão de TI, apaixonada por tecnologia e em constante aprendizado.  
+Sou estudante de Gestão de TI, amante da tecnologia e em constante aprendizado.  
 Atualmente foco em **Python**, **HTML** , **CSS** e **JAVASCRIPT** buscando minha primeira oportunidade na área.
 
 ---
