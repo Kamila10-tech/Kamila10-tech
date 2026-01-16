@@ -1,16 +1,31 @@
-## Hi there 👋
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Kamila%20Aparecida&fontSize=40)
 
-<!--
-**Kamila10-tech/Kamila10-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h2>👋 Olá! Seja bem-vindo(a) ao meu GitHub</h2>
+  <p>🎓 Estudante de Gestão de TI | 💻 Iniciando na área de tecnologia</p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+---
+
+### ✨ Sobre mim
+Sou estudante de Gestão de TI, apaixonada por tecnologia e em constante aprendizado.  
+Atualmente foco em **Python**, **HTML** e **CSS**, buscando minha primeira oportunidade na área.
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kamila10-tech&show_icons=true&theme=radical)
+
+</div>
+
